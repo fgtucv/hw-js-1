@@ -1,5 +1,3 @@
-const myText = "Abcd";
+const myText = "ABCD"
 
-myText.toLowerCase();
-
-console.log(myText);
+console.log(myText.length)

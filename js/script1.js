@@ -1,3 +1,3 @@
 const myNumbers = "123";
 
-console.log(myNeme);
+console.log(myNumbers);

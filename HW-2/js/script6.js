@@ -1,8 +1,8 @@
-let Name = "MacBook Pro 13"
-let Price = 10000
+let name = "MacBook Pro 13"
+let price = 10000
 
-console.log(`Обрано «${Name}» ціна за штуку ${Price} кредитів`)
+console.log(`Обрано «${name}» ціна за штуку ${price} кредитів`)
 
 Price = 20000
 
-console.log(`Обрано «${Name}» ціна за штуку ${Price} кредитів`)
+console.log(`Обрано «${name}» ціна за штуку ${price} кредитів`)

@@ -1,3 +1,3 @@
-const Name = prompt("Як вас звати");
+const name = prompt("Як вас звати");
 
-console.log(Name);
+console.log(name);

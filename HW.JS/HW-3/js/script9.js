@@ -4,4 +4,4 @@ const password = "37942";
 
 const myPassword = password === SAVED_PASSWORD;
 
-console.log(myPassword)
+console.log(myPassword);

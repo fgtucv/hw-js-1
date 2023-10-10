@@ -7,6 +7,6 @@ fruits.push("Ананас");
 
 fruits.splice(2, 1, "Персики", "Груші");
 
-const message = fruits;
+const message = `Ваш список продуктів: ${fruits}`;
 
 console.log(message);
